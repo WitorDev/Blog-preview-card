@@ -1,2 +1,4 @@
-Your users should be able to:
-- See hover and focus states for all interactive elements on the page
+Here's what to expect:
+
+Check out the preview card here:
+https://witordev.github.io/Blog-preview-card/
